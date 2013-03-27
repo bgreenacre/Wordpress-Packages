@@ -1,0 +1,33 @@
+{
+    "packages": {
+        "wordpress/installer": {
+            "dev-master": {
+                "name": "wordpress/installer",
+                "version": "dev-master",
+                "source": {
+                    "url": "https://github.com/bgreenacre/WordpressInstaller",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
+        },
+        "wordpress/core": {
+            "dev-master": {
+                "name": "wordpress/core",
+                "version": "dev-master",
+                "type": "wordpress-core",
+                "extra": {
+                    "class": "Wordpress\\Composer\\WordpressInstaller"
+                },
+                "require": {
+                    "wordpress/installer": "dev-master"
+                },
+                "source": {
+                    "url": "https://github.com/WordPress/WordPress",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
+        }
+    }
+}
