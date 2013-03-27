@@ -17,6 +17,21 @@
                     "reference": "master"
                 }
             }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "wordpress/core",
+                "version": "dev-master",
+                "type": "wordpress-core",
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "dist": {
+                    "url": "https://github.com/WordPress/WordPress/archive/master.zip",
+                    "type": "zip"
+                }
+            }
         }
     ],
     "require-all": true

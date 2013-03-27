@@ -15,6 +15,23 @@
                 },
                 "type": "wordpress-plugin"
             }
+        },
+        "wordpress/core": {
+            "dev-master": {
+                "name": "wordpress/core",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/WordPress/WordPress/archive/master.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-core"
+            }
         }
     }
 }
