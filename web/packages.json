@@ -4,15 +4,16 @@
             "dev-master": {
                 "name": "wordpress/ajax-pagination",
                 "version": "dev-master",
-                "type": "wordpress-plugin",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "ssh://git@uxdev:22/home/git/repos/wordpress/plugins/ajax-pagination.git",
+                    "reference": "master"
+                },
                 "require": {
                     "wordpress/installer": "*"
                 },
-                "source": {
-                    "url": "ssh://git@uxdev:22/home/git/repos/wordpress/plugins/ajax-pagination.git",
-                    "type": "git",
-                    "reference": "master"
-                }
+                "type": "wordpress-plugin"
             }
         }
     }

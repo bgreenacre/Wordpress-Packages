@@ -1,7 +1,10 @@
 {
-    "packages": {
-        "wordpress/ajax-pagination": {
-            "dev-master": {
+    "name": "shc wordpress packages",
+    "homepage": "https://raw.github.com/bgreenacre/Wordpress-Packages/master/",
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
                 "name": "wordpress/ajax-pagination",
                 "version": "dev-master",
                 "type": "wordpress-plugin",
@@ -15,5 +18,6 @@
                 }
             }
         }
-    }
+    ],
+    "require-all": true
 }
