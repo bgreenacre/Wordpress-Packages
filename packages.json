@@ -5,6 +5,9 @@
                 "name": "wordpress/ajax-pagination",
                 "version": "dev-master",
                 "type": "wordpress-plugin",
+                "extra": {
+                    "class": "Wordpress\\Composer\\WordpressInstaller"
+                },
                 "source": {
                     "url": "ssh://git@uxdev:22/home/git/repos/wordpress/plugins/ajax-pagination.git",
                     "type": "git",
