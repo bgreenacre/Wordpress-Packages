@@ -6,7 +6,7 @@
                 "version": "dev-master",
                 "type": "wordpress-plugin",
                 "source": {
-                    "url": "ssh://git@uxdev:/home/git/repos/wordpress/plugins/ajax-pagination.git",
+                    "url": "ssh://git@uxdev:22/home/git/repos/wordpress/plugins/ajax-pagination.git",
                     "type": "git",
                     "reference": "master"
                 }
