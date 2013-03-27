@@ -17,6 +17,21 @@
             }
         },
         "wordpress/core": {
+            "3.5.1": {
+                "name": "wordpress/core",
+                "version": "3.5.1",
+                "version_normalized": "3.5.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://wordpress.org/wordpress-3.5.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-core"
+            },
             "dev-master": {
                 "name": "wordpress/core",
                 "version": "dev-master",

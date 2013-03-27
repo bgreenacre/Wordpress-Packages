@@ -32,6 +32,21 @@
                     "type": "zip"
                 }
             }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "wordpress/core",
+                "version": "3.5.1",
+                "type": "wordpress-core",
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "dist": {
+                    "url": "http://wordpress.org/wordpress-3.5.1.zip",
+                    "type": "zip"
+                }
+            }
         }
     ],
     "require-all": true
