@@ -1,5 +1,16 @@
 {
     "packages": {
+        "wordpress/installer": {
+            "dev-master": {
+                "name": "wordpress/installer",
+                "version": "dev-master",
+                "source": {
+                    "url": "https://github.com/bgreenacre/WordpressInstaller",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
+        },
         "wordpress/ajax-pagination": {
             "dev-master": {
                 "name": "wordpress/ajax-pagination",
@@ -7,6 +18,9 @@
                 "type": "wordpress-plugin",
                 "extra": {
                     "class": "Wordpress\\Composer\\WordpressInstaller"
+                },
+                "require": {
+                    "wordpress/installer": "*"
                 },
                 "source": {
                     "url": "ssh://git@uxdev:22/home/git/repos/wordpress/plugins/ajax-pagination.git",
