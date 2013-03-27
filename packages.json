@@ -16,9 +16,6 @@
                 "name": "wordpress/ajax-pagination",
                 "version": "dev-master",
                 "type": "wordpress-plugin",
-                "extra": {
-                    "class": "Wordpress\\Composer\\WordpressInstaller"
-                },
                 "require": {
                     "wordpress/installer": "*"
                 },
