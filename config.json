@@ -95,7 +95,7 @@
         {
             "type": "package",
             "package": {
-                "name": "wordpress/google-analytics",
+                "name": "wordpress/google-analytics-for-wordpress",
                 "version": "4.3.2",
                 "type": "wordpress-plugin",
                 "require": {
@@ -110,7 +110,7 @@
         {
             "type": "package",
             "package": {
-                "name": "wordpress/google-analytics",
+                "name": "wordpress/google-analytics-for-wordpress",
                 "version": "4.2.5",
                 "type": "wordpress-plugin",
                 "require": {

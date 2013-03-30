@@ -128,9 +128,9 @@
                 "type": "wordpress-plugin"
             }
         },
-        "wordpress/google-analytics": {
+        "wordpress/google-analytics-for-wordpress": {
             "4.2.5": {
-                "name": "wordpress/google-analytics",
+                "name": "wordpress/google-analytics-for-wordpress",
                 "version": "4.2.5",
                 "version_normalized": "4.2.5.0",
                 "dist": {
@@ -145,7 +145,7 @@
                 "type": "wordpress-plugin"
             },
             "4.3.2": {
-                "name": "wordpress/google-analytics",
+                "name": "wordpress/google-analytics-for-wordpress",
                 "version": "4.3.2",
                 "version_normalized": "4.3.2.0",
                 "dist": {
