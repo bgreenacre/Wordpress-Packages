@@ -282,7 +282,7 @@
                     "wordpress/installer": "*"
                 },
                 "dist": {
-                    "url": "http://downloads.wordpress.org/plugin/share-this.2.7.zip",
+                    "url": "http://downloads.wordpress.org/plugin/editorial-calendar.2.7.zip",
                     "type": "zip"
                 }
             }
@@ -297,7 +297,7 @@
                     "wordpress/installer": "*"
                 },
                 "dist": {
-                    "url": "http://downloads.wordpress.org/plugin/share-this.2.6.zip",
+                    "url": "http://downloads.wordpress.org/plugin/editorial-calendar.2.6.zip",
                     "type": "zip"
                 }
             }
