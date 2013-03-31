@@ -342,7 +342,7 @@
                     "wordpress/installer": "*"
                 },
                 "source": {
-                    "type": "vcs",
+                    "type": "git",
                     "url": "https://bgreenacre@bitbucket.org/frontburnr/wordpress-disqus.git",
                     "reference": "tags/2.74"
                 }
