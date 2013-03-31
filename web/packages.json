@@ -71,7 +71,7 @@
                 "version_normalized": "2.6.0.0",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/share-this.2.6.zip",
+                    "url": "http://downloads.wordpress.org/plugin/editorial-calendar.2.6.zip",
                     "reference": null,
                     "shasum": null
                 },
@@ -86,7 +86,7 @@
                 "version_normalized": "2.7.0.0",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/share-this.2.7.zip",
+                    "url": "http://downloads.wordpress.org/plugin/editorial-calendar.2.7.zip",
                     "reference": null,
                     "shasum": null
                 },
