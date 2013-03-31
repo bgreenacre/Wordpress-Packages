@@ -125,7 +125,7 @@
         {
             "type": "package",
             "package": {
-                "name": "wordpress/google-sitemap",
+                "name": "wordpress/google-sitemap-generator",
                 "version": "3.2.9",
                 "type": "wordpress-plugin",
                 "require": {
@@ -140,7 +140,7 @@
         {
             "type": "package",
             "package": {
-                "name": "wordpress/google-sitemap",
+                "name": "wordpress/google-sitemap-generator",
                 "version": "4.0.11-beta",
                 "type": "wordpress-plugin",
                 "require": {

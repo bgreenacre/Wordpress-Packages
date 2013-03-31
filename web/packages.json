@@ -160,9 +160,9 @@
                 "type": "wordpress-plugin"
             }
         },
-        "wordpress/google-sitemap": {
+        "wordpress/google-sitemap-generator": {
             "3.2.9": {
-                "name": "wordpress/google-sitemap",
+                "name": "wordpress/google-sitemap-generator",
                 "version": "3.2.9",
                 "version_normalized": "3.2.9.0",
                 "dist": {
@@ -177,7 +177,7 @@
                 "type": "wordpress-plugin"
             },
             "4.0.11-beta": {
-                "name": "wordpress/google-sitemap",
+                "name": "wordpress/google-sitemap-generator",
                 "version": "4.0.11-beta",
                 "version_normalized": "4.0.11.0-beta",
                 "dist": {
