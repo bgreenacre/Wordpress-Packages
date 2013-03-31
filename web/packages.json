@@ -256,9 +256,9 @@
                 "type": "wordpress-plugin"
             }
         },
-        "wordpress/really-simple-twitter-feed-widget": {
+        "wordpress/really-simple-twitter-feed": {
             "1.3.6": {
-                "name": "wordpress/really-simple-twitter-feed-widget",
+                "name": "wordpress/really-simple-twitter-feed",
                 "version": "1.3.6",
                 "version_normalized": "1.3.6.0",
                 "dist": {
@@ -273,7 +273,7 @@
                 "type": "wordpress-plugin"
             },
             "2.3": {
-                "name": "wordpress/really-simple-twitter-feed-widget",
+                "name": "wordpress/really-simple-twitter-feed",
                 "version": "2.3",
                 "version_normalized": "2.3.0.0",
                 "dist": {

@@ -185,7 +185,7 @@
         {
             "type": "package",
             "package": {
-                "name": "wordpress/really-simple-twitter-feed-widget",
+                "name": "wordpress/really-simple-twitter-feed",
                 "version": "2.3",
                 "type": "wordpress-plugin",
                 "require": {
@@ -200,7 +200,7 @@
         {
             "type": "package",
             "package": {
-                "name": "wordpress/really-simple-twitter-feed-widget",
+                "name": "wordpress/really-simple-twitter-feed",
                 "version": "1.3.6",
                 "type": "wordpress-plugin",
                 "require": {
