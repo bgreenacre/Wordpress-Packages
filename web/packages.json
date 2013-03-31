@@ -327,7 +327,7 @@
                 "version_normalized": "2.9.6.0",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/share-this.2.9.6.zip",
+                    "url": "http://downloads.wordpress.org/plugin/social-media-widget.2.9.6.zip",
                     "reference": null,
                     "shasum": null
                 },
@@ -342,7 +342,7 @@
                 "version_normalized": "3.3.0.0",
                 "dist": {
                     "type": "zip",
-                    "url": "http://downloads.wordpress.org/plugin/share-this.3.3.zip",
+                    "url": "http://downloads.wordpress.org/plugin/social-media-widget.3.3.zip",
                     "reference": null,
                     "shasum": null
                 },
