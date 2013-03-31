@@ -341,9 +341,10 @@
                 "require": {
                     "wordpress/installer": "*"
                 },
-                "dist": {
-                    "url": "https://bitbucket.org/frontburnr/wordpress-disqus/get/2.74.zip",
-                    "type": "zip"
+                "source": {
+                    "type": "vcs",
+                    "url": "https://bgreenacre@bitbucket.org/frontburnr/wordpress-disqus.git",
+                    "reference": "tags/2.74"
                 }
             }
         }
