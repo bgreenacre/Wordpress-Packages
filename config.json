@@ -343,7 +343,7 @@
                 },
                 "source": {
                     "type": "git",
-                    "url": "https://bgreenacre@bitbucket.org/frontburnr/wordpress-disqus.git",
+                    "url": "https://bitbucket.org/frontburnr/wordpress-disqus.git",
                     "reference": "tags/2.74"
                 }
             }

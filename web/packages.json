@@ -71,7 +71,7 @@
                 "version_normalized": "2.74.0.0",
                 "source": {
                     "type": "git",
-                    "url": "https://bgreenacre@bitbucket.org/frontburnr/wordpress-disqus.git",
+                    "url": "https://bitbucket.org/frontburnr/wordpress-disqus.git",
                     "reference": "tags/2.74"
                 },
                 "require": {
