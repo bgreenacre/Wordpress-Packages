@@ -331,6 +331,21 @@
                     "type": "zip"
                 }
             }
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "wordpress/disqus-comment-system",
+                "version": "2.74",
+                "type": "wordpress-plugin",
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "dist": {
+                    "url": "https://bitbucket.org/frontburnr/wordpress-disqus/get/2.74.zip",
+                    "type": "zip"
+                }
+            }
         }
     ],
     "require-all": true
