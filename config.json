@@ -65,21 +65,6 @@
         {
             "type": "package",
             "package": {
-                "name": "wordpress/category-template-hierarchy",
-                "version": "1.1.1",
-                "type": "wordpress-plugin",
-                "require": {
-                    "wordpress/installer": "*"
-                },
-                "dist": {
-                    "url": "http://downloads.wordpress.org/plugin/category-template-hierarchy.1.1.1.zip",
-                    "type": "zip"
-                }
-            }
-        },
-        {
-            "type": "package",
-            "package": {
                 "name": "wordpress/advanced-access-manager",
                 "version": "1.7.2",
                 "type": "wordpress-plugin",
