@@ -1,5 +1,69 @@
 {
     "packages": {
+        "wordpress/advanced-access-manager": {
+            "1.6.5.1": {
+                "name": "wordpress/advanced-access-manager",
+                "version": "1.6.5.1",
+                "version_normalized": "1.6.5.1",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/advanced-access-manager.1.6.5.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.7.2": {
+                "name": "wordpress/advanced-access-manager",
+                "version": "1.7.2",
+                "version_normalized": "1.7.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/advanced-access-manager.1.7.2.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            }
+        },
+        "wordpress/category-template-hierarchy": {
+            "1.1.1": {
+                "name": "wordpress/category-template-hierarchy",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/category-template-hierarchy.1.1.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.3.2.1": {
+                "name": "wordpress/category-template-hierarchy",
+                "version": "1.3.2.1",
+                "version_normalized": "1.3.2.1",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/category-template-hierarchy.1.3.2.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            }
+        },
         "wordpress/contact-form-plugin": {
             "3.32": {
                 "name": "wordpress/contact-form-plugin",
@@ -160,6 +224,21 @@
             }
         },
         "wordpress/google-analytics-for-wordpress": {
+            "4.2.4": {
+                "name": "wordpress/google-analytics-for-wordpress",
+                "version": "4.2.4",
+                "version_normalized": "4.2.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/google-analytics-for-wordpress.4.2.4.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            },
             "4.2.5": {
                 "name": "wordpress/google-analytics-for-wordpress",
                 "version": "4.2.5",
@@ -223,7 +302,39 @@
                 "type": "wordpress-plugin"
             }
         },
+        "wordpress/hetjens-mediarss": {
+            "0.1": {
+                "name": "wordpress/hetjens-mediarss",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/hetjens-mediarss.0.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            }
+        },
         "wordpress/importer": {
+            "0.5": {
+                "name": "wordpress/importer",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/wordpress-importer.0.5.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            },
             "0.6": {
                 "name": "wordpress/importer",
                 "version": "0.6",
@@ -246,6 +357,23 @@
                 "dist": {
                     "type": "zip",
                     "url": "http://downloads.wordpress.org/plugin/wordpress-importer.0.6.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            }
+        },
+        "wordpress/json-api": {
+            "1.0.7": {
+                "name": "wordpress/json-api",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/json-api.1.0.7.zip",
                     "reference": null,
                     "shasum": null
                 },
@@ -278,6 +406,55 @@
                 "dist": {
                     "type": "zip",
                     "url": "http://downloads.wordpress.org/plugin/list-category-posts.0.30.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            }
+        },
+        "wordpress/media-categories-2": {
+            "1.5": {
+                "name": "wordpress/media-categories-2",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/media-categories-2.1.5.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            }
+        },
+        "wordpress/members": {
+            "0.2": {
+                "name": "wordpress/members",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/members.0.2.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.2.2": {
+                "name": "wordpress/members",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/members.0.2.2.zip",
                     "reference": null,
                     "shasum": null
                 },
@@ -374,6 +551,55 @@
                 "dist": {
                     "type": "zip",
                     "url": "http://downloads.wordpress.org/plugin/social-media-widget.3.3.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            }
+        },
+        "wordpress/widgets-reloaded": {
+            "0.4.1": {
+                "name": "wordpress/widgets-reloaded",
+                "version": "0.4.1",
+                "version_normalized": "0.4.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/widgets-reloaded.0.4.1.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            }
+        },
+        "wordpress/wpbook": {
+            "2.0.13": {
+                "name": "wordpress/wpbook",
+                "version": "2.0.13",
+                "version_normalized": "2.0.13.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/wpbook.2.0.13.zip",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "type": "wordpress-plugin"
+            },
+            "2.5.4": {
+                "name": "wordpress/wpbook",
+                "version": "2.5.4",
+                "version_normalized": "2.5.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "http://downloads.wordpress.org/plugin/wpbook.2.5.4.zip",
                     "reference": null,
                     "shasum": null
                 },
