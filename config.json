@@ -470,7 +470,7 @@
         {
             "type": "package",
             "package": {
-                "name": "wordpress/importer",
+                "name": "wordpress/wordpress-importer",
                 "version": "0.6.1",
                 "type": "wordpress-plugin",
                 "require": {
@@ -485,7 +485,7 @@
         {
             "type": "package",
             "package": {
-                "name": "wordpress/importer",
+                "name": "wordpress/wordpress-importer",
                 "version": "0.6",
                 "type": "wordpress-plugin",
                 "require": {
@@ -500,7 +500,7 @@
         {
             "type": "package",
             "package": {
-                "name": "wordpress/importer",
+                "name": "wordpress/wordpress-importer",
                 "version": "0.5",
                 "type": "wordpress-plugin",
                 "require": {
