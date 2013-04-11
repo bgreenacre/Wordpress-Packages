@@ -20,6 +20,21 @@
         {
             "type": "package",
             "package": {
+                "name": "wordpress/twentyeleven",
+                "version": "1.5",
+                "type": "wordpress-theme",
+                "require": {
+                    "wordpress/installer": "*"
+                },
+                "dist": {
+                    "url": "http://wordpress.org/extend/themes/download/twentyeleven.1.5.zip",
+                    "type": "zip"
+                }
+            }
+        },
+        {
+            "type": "package",
+            "package": {
                 "name": "wordpress/core",
                 "version": "3.5.1",
                 "type": "wordpress-core",
